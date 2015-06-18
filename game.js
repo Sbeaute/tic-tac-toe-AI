@@ -1,7 +1,7 @@
 /*
 Author: Shenbaga Prasanna
 Date: 18/06/2015
-Approach: Zero Sum Game AI
+Approach: Minimax Theorem
 PS: If you can beat the system, ping me at shenbagaprasanna@gmail.com.
 */
 var symbol = "O";
