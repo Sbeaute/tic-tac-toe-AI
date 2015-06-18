@@ -1,3 +1,9 @@
+/*
+Author: Shenbaga Prasanna
+Date: 18/06/2015
+Approach: Zero Sum Game AI
+PS: If you can beat the system, ping me at shenbagaprasanna@gmail.com.
+*/
 var symbol = "O";
 var map_grid = [['-', '-', '-'], ['-', '-', '-'], ['-', '-', '-']];
 var x_wins = 0, o_wins = 0, draw = 0;
